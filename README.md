@@ -3,7 +3,8 @@
 
 A small, straightforward containerized Factorio server that supports both interactive and non-interactive server commands. Ideal for local and hosted servers, it is simple, low-configuration, and highly customizable.
 
-### ❗IMPORTANT❗ this is a fork from [6davids image](https://hub.docker.com/r/6davids/docker-factorio) ([github link⁠](https://github.com/sover02/docker-factorio))
+Source image [Docker Hub](https://hub.docker.com/repository/docker/mehdis/factorio-headless/general)
+### ❗IMPORTANT❗ this is a fork from [6davids image](https://hub.docker.com/r/6davids/docker-factorio)
 
 > This fork is designed to address errors found in the main project:
 >  1. The URL being used doesn't download the latest Factorio server build; instead, it oddly downloads version 1.1.57
